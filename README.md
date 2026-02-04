@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'am soufiane dahani
 
 <!--
-**yassineimgharen/yassineimgharen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**soufiane-dahani/soufiane-dahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/yaimghar" alt="yaimghar's 42 stats" width="100%" /></a>
